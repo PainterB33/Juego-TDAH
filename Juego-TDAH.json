@@ -2816,6 +2816,74 @@
         "name": "NewSprite3",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Blocks.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "b6fd0cb2a1206afe3882f0187839aac780734a091c5e6c57ee25c84acdc1a499_Kenney Blocks.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/b6fd0cb2a1206afe3882f0187839aac780734a091c5e6c57ee25c84acdc1a499_Kenney Blocks.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Kenney Pixel.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/NotoSansKR-Black.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Korean/088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "9285000.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "9285000.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NotoSansJP-Black.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "b8c175bf6feff78c285badfb3ca900613c7b24d252b802295ca6e08310f69e42_NotoSansJP-Black.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/b8c175bf6feff78c285badfb3ca900613c7b24d252b802295ca6e08310f69e42_NotoSansJP-Black.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "8666420.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "8666420.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2833,7 +2901,7 @@
       "effects": [],
       "behaviors": [],
       "string": "Cargando...",
-      "font": "",
+      "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
       "textAlignment": "left",
       "characterSize": 100,
       "color": {
@@ -2856,7 +2924,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "Cargando...",
-        "font": "",
+        "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
         "textAlignment": "left",
         "verticalTextAlignment": "top",
         "characterSize": 100,
@@ -7315,21 +7383,21 @@
       "effects": [],
       "behaviors": [],
       "string": "Promoly",
-      "font": "",
+      "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
       "textAlignment": "left",
       "characterSize": 80,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 255
+        "b": 254,
+        "g": 19,
+        "r": 144
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": false,
+        "isOutlineEnabled": true,
         "isShadowEnabled": false,
         "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 10,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
         "shadowColor": "0;0;0",
@@ -7338,11 +7406,11 @@
         "smoothed": true,
         "underlined": false,
         "text": "Promoly",
-        "font": "",
+        "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
         "textAlignment": "left",
         "verticalTextAlignment": "top",
         "characterSize": 80,
-        "color": "255;0;0"
+        "color": "144;19;254"
       }
     },
     {
@@ -7490,7 +7558,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.3088741216342651,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7555,8 +7623,8 @@
           "layer": "",
           "name": "NewText",
           "persistentUuid": "c3935026-d770-41df-aa80-c660f08fe8e2",
-          "width": 505,
-          "x": 741,
+          "width": 613,
+          "x": 700,
           "y": 151,
           "zOrder": 4,
           "numberProperties": [],
@@ -7572,8 +7640,8 @@
           "name": "NewText2",
           "persistentUuid": "27eb0c2d-a088-4d7c-a8eb-ae55cc3348db",
           "width": 0,
-          "x": 15,
-          "y": 967,
+          "x": 20,
+          "y": 946,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -7588,9 +7656,26 @@
           "name": "NewSprite",
           "persistentUuid": "0efd0df5-bbed-41e5-af82-14fb5cd73355",
           "width": 0,
-          "x": 1743,
+          "x": 1725,
           "y": 895,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1107,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fondo_Menu",
+          "persistentUuid": "e99d7e93-af71-4ec1-b6e8-dd00ea329834",
+          "width": 2005,
+          "x": -54,
+          "y": -27,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10071,7 +10156,7 @@
           "effects": [],
           "behaviors": [],
           "string": "FocusKids",
-          "font": "",
+          "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
           "textAlignment": "left",
           "characterSize": 100,
           "color": {
@@ -10094,12 +10179,72 @@
             "smoothed": true,
             "underlined": false,
             "text": "FocusKids",
-            "font": "",
+            "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 100,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Fondo_Menu",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "9285000.jpg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 3000,
+                            "y": 0
+                          },
+                          {
+                            "x": 3000,
+                            "y": 2000
+                          },
+                          {
+                            "x": 0,
+                            "y": 2000
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -10194,6 +10339,9 @@
           },
           {
             "objectName": "NewText"
+          },
+          {
+            "objectName": "Fondo_Menu"
           }
         ]
       },
@@ -10327,15 +10475,15 @@
       ]
     },
     {
-      "b": 165,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Nivel_951_95Carga",
       "name": "Nivel_1_Carga",
-      "r": 190,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 255,
+      "v": 247,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -10361,8 +10509,8 @@
           "name": "Nivel1",
           "persistentUuid": "2a0a84d0-ee40-4b76-83f2-ad94cf84f315",
           "width": 0,
-          "x": 781,
-          "y": 119,
+          "x": 276,
+          "y": 95,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10377,8 +10525,8 @@
           "name": "Cargando",
           "persistentUuid": "3f7450ae-fe34-4177-b0d6-7ee5ba86dc69",
           "width": 0,
-          "x": 726,
-          "y": 748,
+          "x": 687,
+          "y": 712,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -10414,8 +10562,8 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Nivel 1",
-          "font": "",
+          "string": "Nivel 1 - ¡¡¡ Caza de Globos !!!",
+          "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
           "textAlignment": "left",
           "characterSize": 100,
           "color": {
@@ -10437,8 +10585,8 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Nivel 1",
-            "font": "",
+            "text": "Nivel 1 - ¡¡¡ Caza de Globos !!!",
+            "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 100,
@@ -10605,7 +10753,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.21446078431372573,
+        "zoomFactor": 0.23689563725446555,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10888,20 +11036,20 @@
           "effects": [],
           "behaviors": [],
           "string": "¡¡¡TOCA LOS GLOBOS ROJOS!!!",
-          "font": "",
+          "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
           "textAlignment": "left",
           "characterSize": 100,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 0,
+            "g": 0,
+            "r": 0
           },
           "content": {
             "bold": false,
             "isOutlineEnabled": false,
             "isShadowEnabled": false,
             "italic": false,
-            "outlineColor": "255;255;255",
+            "outlineColor": "0;0;0",
             "outlineThickness": 2,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
@@ -10911,11 +11059,11 @@
             "smoothed": true,
             "underlined": false,
             "text": "¡¡¡TOCA LOS GLOBOS ROJOS!!!",
-            "font": "",
+            "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 100,
-            "color": "255;255;255"
+            "color": "0;0;0"
           }
         },
         {
@@ -11110,13 +11258,13 @@
           "effects": [],
           "behaviors": [],
           "string": "¡¡¡Nivel 1 - Completado!!!",
-          "font": "",
+          "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
           "textAlignment": "left",
           "characterSize": 100,
           "color": {
-            "b": 255,
-            "g": 255,
-            "r": 255
+            "b": 0,
+            "g": 0,
+            "r": 0
           },
           "content": {
             "bold": false,
@@ -11133,11 +11281,11 @@
             "smoothed": true,
             "underlined": false,
             "text": "¡¡¡Nivel 1 - Completado!!!",
-            "font": "",
+            "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 100,
-            "color": "255;255;255"
+            "color": "0;0;0"
           }
         }
       ],
@@ -11520,8 +11668,8 @@
               "parameters": [
                 "",
                 "Terminar",
-                "582",
-                "433",
+                "303",
+                "374",
                 ""
               ]
             },
@@ -11643,15 +11791,15 @@
       ]
     },
     {
-      "b": 209,
+      "b": 255,
       "disableInputWhenNotFocused": true,
       "mangledName": "Resultados_95Carga",
       "name": "Resultados_Carga",
-      "r": 209,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 247,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -11677,7 +11825,7 @@
           "name": "Resultados_Cargando",
           "persistentUuid": "d8f07c06-cefe-4d9f-b8dc-63c1f20dc733",
           "width": 0,
-          "x": 174,
+          "x": 130,
           "y": 41,
           "zOrder": 1,
           "numberProperties": [],
@@ -11693,7 +11841,7 @@
           "name": "Cargando",
           "persistentUuid": "489e7f17-12c9-4a4f-8ea3-8ea80caa31f2",
           "width": 0,
-          "x": 747,
+          "x": 677,
           "y": 733,
           "zOrder": 2,
           "numberProperties": [],
@@ -11731,7 +11879,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Preparate para ver los Resultados",
-          "font": "",
+          "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
           "textAlignment": "left",
           "characterSize": 100,
           "color": {
@@ -11754,7 +11902,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "Preparate para ver los Resultados",
-            "font": "",
+            "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 100,
@@ -11921,7 +12069,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3645833333333333,
+        "zoomFactor": 0.2890516203134915,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -11936,8 +12084,8 @@
           "name": "Titulo",
           "persistentUuid": "bae9f9fd-c882-44c4-b99d-81c9ce5e07da",
           "width": 0,
-          "x": 558,
-          "y": 40,
+          "x": 521,
+          "y": 33,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -11952,8 +12100,8 @@
           "name": "NewSprite",
           "persistentUuid": "02c423e6-b2cc-4d11-87ec-2db48ca84ca6",
           "width": 0,
-          "x": 1733,
-          "y": 873,
+          "x": 1724,
+          "y": 882,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -11969,25 +12117,8 @@
           "persistentUuid": "a8e9e4fe-4db4-4ddd-adef-b432533abef1",
           "width": 0,
           "x": 22,
-          "y": 977,
+          "y": 924,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 782,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite3",
-          "persistentUuid": "8474123b-2132-4e2d-908a-b5d9e7c941c3",
-          "width": 1337,
-          "x": 289,
-          "y": 204,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12008,6 +12139,40 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1083,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fondo_Resultados",
+          "persistentUuid": "c5f4ab5c-10b1-47c1-95ee-8e462dfa7771",
+          "width": 2773,
+          "x": -508,
+          "y": -1,
+          "zOrder": -3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 800,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite4",
+          "persistentUuid": "98b61b90-ed34-47b7-8575-e9ce1c4dffc1",
+          "width": 1332,
+          "x": 292,
+          "y": 199,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -12023,7 +12188,7 @@
           "effects": [],
           "behaviors": [],
           "string": "¡¡¡RESULTADOS!!!",
-          "font": "",
+          "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
           "textAlignment": "left",
           "characterSize": 100,
           "color": {
@@ -12046,7 +12211,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "¡¡¡RESULTADOS!!!",
-            "font": "",
+            "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 100,
@@ -12214,7 +12379,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Es muy posible que sufras de TDAH.\n\n\nDescarga el informe completo AQUI.",
-          "font": "",
+          "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
           "textAlignment": "left",
           "characterSize": 70,
           "color": {
@@ -12237,7 +12402,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "Es muy posible que sufras de TDAH.\n\n\nDescarga el informe completo AQUI.",
-            "font": "",
+            "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 70,
@@ -12256,7 +12421,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Es poco probable que sufras TDAH",
-          "font": "",
+          "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
           "textAlignment": "left",
           "characterSize": 75,
           "color": {
@@ -12279,12 +12444,133 @@
             "smoothed": true,
             "underlined": false,
             "text": "Es poco probable que sufras TDAH",
-            "font": "",
+            "font": "088dd9d7e751fe70af00d41cd19ea388f5955f643f16ad3371b9c7b6f37a8aa8_NotoSansKR-Black.otf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 75,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Fondo_Resultados",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "8666420.jpg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 2000,
+                            "y": 0
+                          },
+                          {
+                            "x": 2000,
+                            "y": 2000
+                          },
+                          {
+                            "x": 0,
+                            "y": 2000
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite4",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -12303,10 +12589,16 @@
             "objectName": "NewSprite3"
           },
           {
+            "objectName": "NewSprite4"
+          },
+          {
             "objectName": "Informe_malo"
           },
           {
             "objectName": "Informe_bueno"
+          },
+          {
+            "objectName": "Fondo_Resultados"
           }
         ]
       },
@@ -12333,8 +12625,8 @@
               "parameters": [
                 "",
                 "Informe_malo",
-                "371",
-                "290",
+                "325",
+                "322",
                 ""
               ]
             }
@@ -12362,8 +12654,8 @@
               "parameters": [
                 "",
                 "Informe_malo",
-                "371",
-                "290",
+                "325",
+                "322",
                 ""
               ]
             }
@@ -12391,8 +12683,8 @@
               "parameters": [
                 "",
                 "Informe_malo",
-                "371",
-                "290",
+                "325",
+                "322",
                 ""
               ]
             }
@@ -12440,8 +12732,8 @@
               "parameters": [
                 "",
                 "Informe_bueno",
-                "376",
-                "447",
+                "325",
+                "322",
                 ""
               ]
             }
